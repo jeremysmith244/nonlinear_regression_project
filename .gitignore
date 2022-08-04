@@ -1,2 +1,7 @@
 **/__pycache__
 **/.pytest_cache
+**/eigen-3.4.0
+**/build
+**/.vscode
+**/.ipynb_checkpoints
+**/symengine
